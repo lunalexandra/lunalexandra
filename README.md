@@ -1,8 +1,6 @@
 ### Обо мне
  Всем привет! Меня зовут Александра и я прохожу обучение в [Netology](https://netology.ru/) по профессии **"Фронтенд-разработчик"**
 
-![''](/imges/1.jpg)
-
 ### Контакты:
 Telegram: @Lukaalexa ;\
 email: ip-lukaam@yandex.ru ;
