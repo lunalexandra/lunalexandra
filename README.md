@@ -1,5 +1,5 @@
 ### Обо мне
-Начинающий **Фронтенд-разработчик**
+**Фронтенд-разработчик**
 
 ### Контакты:
 Telegram: @Lukaalexa ;\
@@ -12,4 +12,6 @@ email: ip-lukaam@yandex.ru ;
 * CSS
 * GIT
 * JavaScript
+* React
+* Redux, Redux Toolkit
 * английский язык B2 – Upper-Intermediate
